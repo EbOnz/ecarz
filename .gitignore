@@ -1,0 +1,15 @@
+.env
+node_modules/
+dist/
+build/
+coverage/
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+Thumbs.db
+
+.venv/
+__pycache__/
+*.pyc
+
+_temp/
